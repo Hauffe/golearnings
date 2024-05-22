@@ -1,19 +1,19 @@
 Learning Go by documentation
 
-[x] Going thru getting started https://go.dev/doc/tutorial/getting-started
+✅ Going thru getting started https://go.dev/doc/tutorial/getting-started
 
-[ ] Create module https://go.dev/doc/tutorial/create-module
+☑️ Create module https://go.dev/doc/tutorial/create-module
 
-  [ ] Create a module -- Write a small module with functions you can call from another module.
+  ☑️ Create a module -- Write a small module with functions you can call from another module.
   
-  [ ] Call your code from another module -- Import and use your new module.
+  ☑️ Call your code from another module -- Import and use your new module.
   
-  [ ] Return and handle an error -- Add simple error handling.
+  ☑️ Return and handle an error -- Add simple error handling.
   
-  [ ] Return a random greeting -- Handle data in slices (Go's dynamically-sized arrays).
+  ☑️ Return a random greeting -- Handle data in slices (Go's dynamically-sized arrays).
   
-  [ ] Return greetings for multiple people -- Store key/value pairs in a map.
+  ☑️ Return greetings for multiple people -- Store key/value pairs in a map.
   
-  [ ] Add a test -- Use Go's built-in unit testing features to test your code.
+  ☑️ Add a test -- Use Go's built-in unit testing features to test your code.
   
-  [ ] Compile and install the application -- Compile and install your code locally.
+  ☑️ Compile and install the application -- Compile and install your code locally.
