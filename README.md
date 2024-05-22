@@ -4,9 +4,9 @@ Learning Go by documentation
 
 ☑️ Create module https://go.dev/doc/tutorial/create-module
 
-  ☑️ Create a module -- Write a small module with functions you can call from another module.
+  ✅ Create a module -- Write a small module with functions you can call from another module.
   
-  ☑️ Call your code from another module -- Import and use your new module.
+  ✅ Call your code from another module -- Import and use your new module.
   
   ☑️ Return and handle an error -- Add simple error handling.
   
